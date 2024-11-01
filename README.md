@@ -1,5 +1,7 @@
+<html>
 <head>
     <link rel="stylesheet" href="styles.css" />
+    <title>Aluraflix</title>
 </head>
 
 <body>
@@ -15,3 +17,7 @@
 
 
 <body>
+
+
+
+<html>
